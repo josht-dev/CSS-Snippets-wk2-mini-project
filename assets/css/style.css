@@ -1,0 +1,31 @@
+
+/* TO DO - Title box, 1 column 2 row, text centered */
+header {
+
+}
+
+/* TO DO - Main content styling */
+
+.card {
+
+}
+
+/* TO DO - Snippet title box */
+.card h2 {
+
+}
+
+/* TO DO - Snippet description */
+.card p {
+
+}
+
+/* TO DO - Snippet code box */
+.code-box {
+
+}
+
+/* Adds heart emoji to footer text */
+#heartEmote::after {
+    content: '\01F496';
+}
